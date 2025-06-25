@@ -60,15 +60,15 @@ This project analyzes car pricing data to identify key factors that influence ve
 ## 📸 Project Screenshots
 
 ### Correlation Heatmap
-![Correlation Matrix]()
+![Correlation Matrix](https://github.com/Harshvspr/Car_sales_analysis_python_project/blob/main/Screenshot%202025-06-25%20193830.png)
 *Strong correlations between engine specs and price*
 
 ### Price vs Horsepower Analysis
-![Price vs Horsepower](screenshot2.png)
+![Price vs Horsepower](https://github.com/Harshvspr/Car_sales_analysis_python_project/blob/main/price%20vs%20horsepower.png)
 *Clear positive relationship with color-coded pricing*
 
 ### Price vs Engine Size
-![Price vs Engine Size](screenshot3.png)
+![Price vs Engine Size](https://github.com/Harshvspr/Car_sales_analysis_python_project/blob/main/Screenshot%202025-06-25%20213240.png)
 *Engine size as a key price predictor*
 
 ## 📁 Project Structure
